@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a1b2e;
+      }
+
+      .cls-2 {
+        fill: #1881c4;
+      }
+
+      .cls-3 {
+        fill: #45aae0;
+      }
+    </style>
+  </defs>
+  <g id="Fondos">
+    <rect class="cls-1" width="300" height="300"/>
+  </g>
+  <g id="Texto">
+    <g>
+      <path class="cls-3" d="M43.41,157.69V65.39l79.94,46.15v30.77l-53.29-30.77v61.54l-26.65-15.38Z"/>
+      <path class="cls-2" d="M123.35,111.54l79.94-46.15v92.31l-53.29,30.77-26.65-15.38,53.29-30.77v-30.77l-53.29,30.77v-30.77Z"/>
+      <path class="cls-3" d="M123.35,173.08v30.77l53.29,30.77v-30.77l-53.29-30.77Z"/>
+      <path class="cls-2" d="M176.65,234.61l79.94-46.15v-61.54l-26.65,15.38v30.77l-53.29,30.77v30.77Zm53.29-123.08v-30.77l26.65-15.38v30.77l-26.65,15.38Z"/>
+    </g>
+  </g>
+</svg>
